@@ -14,7 +14,7 @@ ingress:
     # kubernetes.io/ingress.class: nginx
     # kubernetes.io/tls-acme: "true"
   hosts:
-    - host: laravel.212.2.241.168.sslip.io
+    - host: laravel.74.220.17.153.sslip.io
       paths:
         - path: /
           pathType: Prefix
