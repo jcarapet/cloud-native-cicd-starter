@@ -3,7 +3,7 @@ image:
   pullPolicy: Always
   # Overrides the image tag whose default is the chart appVersion.
   tag: "latest"
-imagePullSecrets: ["name: docker-pull-secret"]
+imagePullSecrets: []
 service:
   type: ClusterIP
   port: 80

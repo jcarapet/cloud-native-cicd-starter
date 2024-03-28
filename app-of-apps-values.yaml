@@ -26,7 +26,7 @@ spec:
     #   targetRevision: HEAD
     - name: baseline-vue
       path: helm/baseline-vue-app
-      repoURL: https://github.com/jcarapet/cloud-native-workshop-charts.git
+      repoURL: https://github.com/krumIO/cloud-native-workshop-charts.git
       targetRevision: HEAD
     # - name: baseline-laravel
     #   path: helm/example-laravel-app
